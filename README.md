@@ -594,7 +594,7 @@ This project demonstrates how machine learning can be used as an early warning t
 
 ## Author
 
-Jessica
+Jessica, Josh, Jake, Sebastian
 
 BSAN 6070  
 Spring 2026  
